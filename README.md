@@ -21,5 +21,3 @@ Clone the repository or download the ZIP
 
 Open index.html in your browser
 
-📸 Screenshots
- ![screenshot](imgs/s1.png))
